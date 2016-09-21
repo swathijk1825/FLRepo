@@ -22,5 +22,15 @@ public class OpenGoogle {
 	
 	
 		}
+	
+	@Test
+	public void SayHi() {
+		System.out.println("Lets get the shit out of the life"); 
+		System.out.println("I hate this women"); 
+		
+		
+	
+	
+		}
 
 }
